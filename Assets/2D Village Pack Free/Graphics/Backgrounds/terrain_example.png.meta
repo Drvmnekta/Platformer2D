@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 871b9245f9bdf654ba5b6c8dfd05a3bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6218621001228761135
+    second: terrain_example_0
+  - first:
+      213: -8617796166876484926
+    second: terrain_example_1
+  - first:
+      213: 4081600860041930262
+    second: terrain_example_2
+  - first:
+      213: -9218596619478215446
+    second: terrain_example_3
+  - first:
+      213: -5247085459104405954
+    second: terrain_example_4
+  - first:
+      213: 7579835976130279661
+    second: terrain_example_5
+  - first:
+      213: 201721231542000431
+    second: terrain_example_6
+  - first:
+      213: 4622352098945642019
+    second: terrain_example_7
+  - first:
+      213: 2401981204665658838
+    second: terrain_example_8
+  - first:
+      213: 7851064853857498154
+    second: terrain_example_9
+  - first:
+      213: 3187257652494420777
+    second: terrain_example_10
+  - first:
+      213: -5635803414081211535
+    second: terrain_example_11
+  - first:
+      213: 3021034931587877316
+    second: terrain_example_12
+  - first:
+      213: -3623669564251182150
+    second: terrain_example_13
+  - first:
+      213: -394977918426291039
+    second: terrain_example_14
+  - first:
+      213: 2243088471204456476
+    second: terrain_example_15
+  - first:
+      213: -6334213002268112819
+    second: terrain_example_16
+  - first:
+      213: -168256460938731329
+    second: terrain_example_17
+  - first:
+      213: -5249912764819071444
+    second: terrain_example_18
+  - first:
+      213: 2993095995489984387
+    second: terrain_example_19
+  - first:
+      213: 6916122182254109033
+    second: terrain_example_20
+  - first:
+      213: 8490842119727296713
+    second: terrain_example_21
+  - first:
+      213: -5196706277209338070
+    second: terrain_example_22
+  - first:
+      213: -7020843556874731017
+    second: terrain_example_23
+  - first:
+      213: -5404042027242329059
+    second: terrain_example_24
+  - first:
+      213: 2280878982711553663
+    second: terrain_example_25
+  - first:
+      213: 4773151373502671180
+    second: terrain_example_26
+  - first:
+      213: 6060292067703069811
+    second: terrain_example_27
+  - first:
+      213: 4074447536128016835
+    second: terrain_example_28
+  - first:
+      213: 7299098839226207711
+    second: terrain_example_29
+  - first:
+      213: 4247775052926899638
+    second: terrain_example_30
+  - first:
+      213: -3444619659616386780
+    second: terrain_example_31
+  - first:
+      213: 831985948020714334
+    second: terrain_example_32
+  - first:
+      213: 7204478626318368797
+    second: terrain_example_33
+  - first:
+      213: 6794561641855041189
+    second: terrain_example_34
+  - first:
+      213: -3982591503038670956
+    second: terrain_example_35
+  - first:
+      213: 2835300724756387195
+    second: terrain_example_36
+  - first:
+      213: 4624957971119287442
+    second: terrain_example_37
+  - first:
+      213: 6669942568574482765
+    second: terrain_example_38
+  - first:
+      213: -7325328325282503550
+    second: terrain_example_39
+  - first:
+      213: 6370683138253237726
+    second: terrain_example_40
+  - first:
+      213: 5676124998437357184
+    second: terrain_example_41
+  - first:
+      213: -8757734619617071141
+    second: terrain_example_42
+  - first:
+      213: -5797497155066990162
+    second: terrain_example_43
+  - first:
+      213: 4639603214054991660
+    second: terrain_example_44
+  - first:
+      213: -1147164035893980873
+    second: terrain_example_45
+  - first:
+      213: 4572569111628652502
+    second: terrain_example_46
+  - first:
+      213: 4027422607131721280
+    second: terrain_example_47
+  - first:
+      213: -1789163641129163713
+    second: terrain_example_48
+  - first:
+      213: 7441179298735569587
+    second: terrain_example_49
+  - first:
+      213: -572178236910045182
+    second: terrain_example_50
+  - first:
+      213: 5353256820152726040
+    second: terrain_example_51
+  - first:
+      213: 5045678365639164197
+    second: terrain_example_52
+  - first:
+      213: -5139814432370911292
+    second: terrain_example_53
+  - first:
+      213: 7348160309008652897
+    second: terrain_example_54
+  - first:
+      213: -3576075098198383617
+    second: terrain_example_55
+  - first:
+      213: -4555617451065126463
+    second: terrain_example_56
+  - first:
+      213: -1827368031444698797
+    second: terrain_example_57
+  - first:
+      213: -5753624365772136682
+    second: terrain_example_58
+  - first:
+      213: -2904257207013223229
+    second: terrain_example_59
+  - first:
+      213: 994592694605224983
+    second: terrain_example_60
+  - first:
+      213: -2103440763387811157
+    second: terrain_example_61
+  - first:
+      213: 8341142732715093816
+    second: terrain_example_62
+  - first:
+      213: -445012232631263538
+    second: terrain_example_63
+  - first:
+      213: -6083900313280068860
+    second: terrain_example_64
+  - first:
+      213: -4032875113839111870
+    second: terrain_example_65
+  - first:
+      213: -2883007502680816098
+    second: terrain_example_66
+  - first:
+      213: -3168693891768256271
+    second: terrain_example_67
+  - first:
+      213: -1643684093372774162
+    second: terrain_example_68
+  - first:
+      213: -3671018916992069190
+    second: terrain_example_69
+  - first:
+      213: 684076722413888425
+    second: terrain_example_70
+  - first:
+      213: -4888993923626134223
+    second: terrain_example_71
+  - first:
+      213: 1075795267752798216
+    second: terrain_example_72
+  - first:
+      213: -4700118756793145798
+    second: terrain_example_73
+  - first:
+      213: -7649532066746281549
+    second: terrain_example_74
+  - first:
+      213: 8948825829963011704
+    second: terrain_example_75
+  - first:
+      213: 7179053079701552569
+    second: terrain_example_76
+  - first:
+      213: 6237368059419732752
+    second: terrain_example_77
+  - first:
+      213: 4058076878917402900
+    second: terrain_example_78
+  - first:
+      213: -7341533820285946906
+    second: terrain_example_79
+  - first:
+      213: 5329172717440130483
+    second: terrain_example_80
+  - first:
+      213: 4696244025408920086
+    second: terrain_example_81
+  - first:
+      213: 6300914020729156322
+    second: terrain_example_82
+  - first:
+      213: -5052763796555364007
+    second: terrain_example_83
+  - first:
+      213: 5038861700256285347
+    second: terrain_example_84
+  - first:
+      213: 4023024436952533965
+    second: terrain_example_85
+  - first:
+      213: 6359847194726803632
+    second: terrain_example_86
+  - first:
+      213: -9157867833004645165
+    second: terrain_example_87
+  - first:
+      213: -3629229952089864402
+    second: terrain_example_88
+  - first:
+      213: 3913841537051516411
+    second: terrain_example_89
+  - first:
+      213: -6402186936980034844
+    second: terrain_example_90
+  - first:
+      213: -293150209603966259
+    second: terrain_example_91
+  - first:
+      213: 83183532659507994
+    second: terrain_example_92
+  - first:
+      213: 5577906162912991988
+    second: terrain_example_93
+  - first:
+      213: 1647098682331236427
+    second: terrain_example_94
+  - first:
+      213: -3233433633443197372
+    second: terrain_example_95
+  - first:
+      213: 3663845102439376218
+    second: terrain_example_96
+  - first:
+      213: 9136227119843460852
+    second: terrain_example_97
+  - first:
+      213: -3974221633272392570
+    second: terrain_example_98
+  - first:
+      213: 6750751371683703453
+    second: terrain_example_99
+  - first:
+      213: -1869962516301021524
+    second: terrain_example_100
+  - first:
+      213: -3839478647830145256
+    second: terrain_example_101
+  - first:
+      213: 2476322768155176558
+    second: terrain_example_102
+  - first:
+      213: -5306913432657619249
+    second: terrain_example_103
+  - first:
+      213: 3696353746923010715
+    second: terrain_example_104
+  - first:
+      213: 1059264751339221671
+    second: terrain_example_105
+  - first:
+      213: 9103836249211299419
+    second: terrain_example_106
+  - first:
+      213: -4269238214938539442
+    second: terrain_example_107
+  - first:
+      213: 1879382419046579168
+    second: terrain_example_108
+  - first:
+      213: -7895977845156871858
+    second: terrain_example_109
+  - first:
+      213: 4255783089717280353
+    second: terrain_example_110
+  - first:
+      213: -4803833403069065651
+    second: terrain_example_111
+  - first:
+      213: 2227765900709990331
+    second: terrain_example_112
+  - first:
+      213: -368328750166192365
+    second: terrain_example_113
+  - first:
+      213: 3231334194473660827
+    second: terrain_example_114
+  - first:
+      213: 3988334433605863111
+    second: terrain_example_115
+  - first:
+      213: 512179763290548391
+    second: terrain_example_116
+  - first:
+      213: 5324155961890129267
+    second: terrain_example_117
+  - first:
+      213: -2834869632143756499
+    second: terrain_example_118
+  - first:
+      213: -5035224173160397576
+    second: terrain_example_119
+  - first:
+      213: -226139864195160970
+    second: terrain_example_120
+  - first:
+      213: 8952169297011302938
+    second: terrain_example_121
+  - first:
+      213: -2487100663749467280
+    second: terrain_example_122
+  - first:
+      213: -3392452027478561370
+    second: terrain_example_123
+  - first:
+      213: 1428428749036719561
+    second: terrain_example_124
+  - first:
+      213: -1811334118643581196
+    second: terrain_example_125
+  - first:
+      213: 7603294287530787886
+    second: terrain_example_126
+  - first:
+      213: 2015655757005762987
+    second: terrain_example_127
+  - first:
+      213: 8310927170725984592
+    second: terrain_example_128
+  - first:
+      213: 5626067799145202959
+    second: terrain_example_129
+  - first:
+      213: -6310558127758299814
+    second: terrain_example_130
+  - first:
+      213: 7447377869109817476
+    second: terrain_example_131
+  - first:
+      213: 1582676054647122611
+    second: terrain_example_132
+  - first:
+      213: 4874573324664034119
+    second: terrain_example_133
+  - first:
+      213: 8440659859139635805
+    second: terrain_example_134
+  - first:
+      213: -9122486499881597074
+    second: terrain_example_135
+  - first:
+      213: -5980695790778805128
+    second: terrain_example_136
+  - first:
+      213: -1982601899323718824
+    second: terrain_example_137
+  - first:
+      213: -8561117543230897991
+    second: terrain_example_138
+  - first:
+      213: -5413376511459155346
+    second: terrain_example_139
+  - first:
+      213: 1960400566885273499
+    second: terrain_example_140
+  - first:
+      213: -7977253811824271463
+    second: terrain_example_141
+  - first:
+      213: 4001213975419749830
+    second: terrain_example_142
+  - first:
+      213: 5843353540027255102
+    second: terrain_example_143
+  - first:
+      213: -863501414491107464
+    second: terrain_example_144
+  - first:
+      213: -1216814582023917733
+    second: terrain_example_145
+  - first:
+      213: -5146146337190948589
+    second: terrain_example_146
+  - first:
+      213: 1461193073911205574
+    second: terrain_example_147
+  - first:
+      213: 9144917531338430754
+    second: terrain_example_148
+  - first:
+      213: 3538666707110254170
+    second: terrain_example_149
+  - first:
+      213: 8415889783001367506
+    second: terrain_example_150
+  - first:
+      213: -8316026933403139294
+    second: terrain_example_151
+  - first:
+      213: 5712368203119991964
+    second: terrain_example_152
+  - first:
+      213: 4303295230252529691
+    second: terrain_example_153
+  - first:
+      213: -1219777292158920722
+    second: terrain_example_154
+  - first:
+      213: 7706417063132642726
+    second: terrain_example_155
+  - first:
+      213: 1438652634497072110
+    second: terrain_example_156
+  - first:
+      213: -4010967273341832206
+    second: terrain_example_157
+  - first:
+      213: -7387521459162511257
+    second: terrain_example_158
+  - first:
+      213: -7857674880060049465
+    second: terrain_example_159
+  - first:
+      213: 225988874783293355
+    second: terrain_example_160
+  - first:
+      213: -7515015279949222450
+    second: terrain_example_161
+  - first:
+      213: -5409294353552873770
+    second: terrain_example_162
+  - first:
+      213: -4188548187537436509
+    second: terrain_example_163
+  - first:
+      213: 8129492427846229382
+    second: terrain_example_164
+  - first:
+      213: -9058739735634665977
+    second: terrain_example_165
+  - first:
+      213: -4395625183101259335
+    second: terrain_example_166
+  - first:
+      213: 8921449731633969268
+    second: terrain_example_167
+  - first:
+      213: -7358495004688909134
+    second: terrain_example_168
+  - first:
+      213: 8496457137775390615
+    second: terrain_example_169
+  - first:
+      213: 6065553897161104186
+    second: terrain_example_170
+  - first:
+      213: -5227842956494620841
+    second: terrain_example_171
+  - first:
+      213: 2991016089512602379
+    second: terrain_example_172
+  - first:
+      213: 3527006434008588545
+    second: terrain_example_173
+  - first:
+      213: 4038419982778846528
+    second: terrain_example_174
+  - first:
+      213: -5775924044222762416
+    second: terrain_example_175
+  - first:
+      213: -4389177674101403865
+    second: terrain_example_176
+  - first:
+      213: 4032945340749800928
+    second: terrain_example_177
+  - first:
+      213: 1253733247408520276
+    second: terrain_example_178
+  - first:
+      213: 4242209271843031826
+    second: terrain_example_179
+  - first:
+      213: 7294617911829015227
+    second: terrain_example_180
+  - first:
+      213: 490658706632181724
+    second: terrain_example_181
+  - first:
+      213: -8786349332113388384
+    second: terrain_example_182
+  - first:
+      213: -4671595491528559498
+    second: terrain_example_183
+  - first:
+      213: 1818855660298644823
+    second: terrain_example_184
+  - first:
+      213: 4210409206152780749
+    second: terrain_example_185
+  - first:
+      213: -7593279752922608220
+    second: terrain_example_186
+  - first:
+      213: 8232935290453250843
+    second: terrain_example_187
+  - first:
+      213: -3261721819825015198
+    second: terrain_example_0
+  - first:
+      213: 4327434479944569609
+    second: terrain_example_1
+  - first:
+      213: 4005480173449350030
+    second: terrain_example_2
+  - first:
+      213: -833093379314905973
+    second: terrain_example_3
+  - first:
+      213: 6589032619260124929
+    second: terrain_example_4
+  - first:
+      213: -419558478075638895
+    second: terrain_example_5
+  - first:
+      213: -2065386091001092809
+    second: terrain_example_6
+  - first:
+      213: -5930528019161968200
+    second: terrain_example_7
+  - first:
+      213: -7715391533119328171
+    second: terrain_example_8
+  - first:
+      213: -2969618577374827169
+    second: terrain_example_9
+  - first:
+      213: 4756343021008749165
+    second: terrain_example_10
+  - first:
+      213: 433316435139741341
+    second: terrain_example_11
+  - first:
+      213: 4261600111639509350
+    second: terrain_example_12
+  - first:
+      213: 2630503019636459822
+    second: terrain_example_13
+  - first:
+      213: 4153572712525429805
+    second: terrain_example_14
+  - first:
+      213: 6753547188398372072
+    second: terrain_example_15
+  - first:
+      213: 2587927434995303742
+    second: terrain_example_16
+  - first:
+      213: 6551414336479700465
+    second: terrain_example_17
+  - first:
+      213: -3179741481533005769
+    second: terrain_example_18
+  - first:
+      213: 9121333811982586332
+    second: terrain_example_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terrain_example_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 454
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 39, y: 56}
+        - {x: 16, y: 30}
+        - {x: 26, y: -13}
+        - {x: 29, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266703549490cb2d0800000000000000
+      internalID: -3261721819825015198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 454
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 57}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039fd55bb22e0c30800000000000000
+      internalID: 4327434479944569609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 454
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 58}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b815deef2569730800000000000000
+      internalID: 4005480173449350030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_3
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 454
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 59}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c84354cf14074f0800000000000000
+      internalID: -833093379314905973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_4
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 454
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -33, y: 41}
+        - {x: -51, y: 59}
+        - {x: -95, y: 59}
+        - {x: -95, y: -95}
+        - {x: -56, y: -95}
+        - {x: -50, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f167cc142f07b50800000000000000
+      internalID: 6589032619260124929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 264
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4ccf79cd6d2af0800000000000000
+      internalID: -419558478075638895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 264
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e8d90b464653e0800000000000000
+      internalID: -2065386091001092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 264
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b19957103882bda0800000000000000
+      internalID: -5930528019161968200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 264
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bd5d474c6de490800000000000000
+      internalID: -7715391533119328171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 264
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d2c2933abc9c6d0800000000000000
+      internalID: -2969618577374827169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 56}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62822507cce10240800000000000000
+      internalID: 4756343021008749165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 74
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 95}
+        - {x: 36, y: -16}
+        - {x: -95, y: -16}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 95}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c7df7003730600800000000000000
+      internalID: 433316435139741341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 74
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b90df8be342b30800000000000000
+      internalID: 4261600111639509350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 74
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2906023f8c618420800000000000000
+      internalID: 2630503019636459822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 74
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c75de106474a930800000000000000
+      internalID: 4153572712525429805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_15
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 74
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -59, y: -17}
+        - {x: -53, y: 95}
+        - {x: -95, y: 95}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b252d26b69bd50800000000000000
+      internalID: 6753547188398372072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_16
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 58}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35026b6a4a2ae320800000000000000
+      internalID: 2587927434995303742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 58}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5264ec0ac4bea50800000000000000
+      internalID: 6551414336479700465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_18
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 58}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a6a338f94fd3d0800000000000000
+      internalID: -3179741481533005769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_example_19
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 95, y: 62}
+        - {x: 95, y: 61}
+        - {x: 95, y: 61}
+        - {x: 95, y: 61}
+        - {x: 95, y: 61}
+        - {x: 95, y: 60}
+        - {x: -94, y: 59}
+        - {x: -94, y: 59}
+        - {x: -95, y: -95}
+        - {x: 95, y: -95}
+        - {x: 95, y: 61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd15bfc66cc759e70800000000000000
+      internalID: 9121333811982586332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
