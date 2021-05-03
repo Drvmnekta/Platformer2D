@@ -13,10 +13,17 @@ public class PlayerController : MonoBehaviour
     private bool isGround = false;
     private bool isJump = false;
     private bool isFacingRight = true;
+    private bool isFinish = false;
+    private bool isLeverArm = false;
+
     private Rigidbody2D rb;
+    private Finish finish;
+    private LeverArm leverArm;
 
     void Start () {
         rb = GetComponent<Rigidbody2D>();
+        finish = GameObject.FindGameObjectWithTag("Finish").GetComponent<Finish>();
+        leverArm = FindObjectOfType<LeverArm>();
     }
 
     void Update () {
@@ -24,6 +31,14 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("speedX", Mathf.Abs(horizontal));
         if (Input.GetKey(KeyCode.W) && isGround) {
             isJump = true;
+        }
+        if(Input.GetKeyDown(KeyCode.F)){
+            if(isFinish){
+                finish.FinishLevel();
+            }
+            if(isLeverArm){
+                leverArm.ActivateLeverArm();
+            }
         }
     }
 
@@ -55,4 +70,26 @@ public class PlayerController : MonoBehaviour
             isGround = true;
         }
     }
+
+    private void OnTriggerEnter2D (Collider2D other) {
+        LeverArm leverArmTemp = other.GetComponent<LeverArm>();
+        if(other.CompareTag("Finish")) {
+            isFinish = true;
+        }
+        if(leverArmTemp != null) {
+            isLeverArm = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other) {
+        LeverArm leverArmTemp = other.GetComponent<LeverArm>();
+
+        if(other.CompareTag("Finish")){
+            isFinish = false;
+        }
+        if(leverArmTemp != null) {
+            isLeverArm = false;
+        }
+    }
+
 }
