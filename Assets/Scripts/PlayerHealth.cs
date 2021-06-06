@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
+    [SerializeField] private GameObject gameOverCanvas;
     [SerializeField] private Slider healthSlider;
     [SerializeField] private float totalHealth = 100f;
     [SerializeField] private Animator _animator;
@@ -13,14 +14,16 @@ public class PlayerHealth : MonoBehaviour
 
     private void Start() {
         _health = totalHealth;
+        InitHealth();
     }
 
-    private void Update() {
+    private void InitHealth() {
         healthSlider.value = _health / totalHealth;
     }
 
     public void ReduceHealth (float damage) {
         _health -= damage;
+        InitHealth();
         _animator.SetTrigger("takeDamage");
         if(_health <= 0) {
             Die();
@@ -29,5 +32,6 @@ public class PlayerHealth : MonoBehaviour
 
     private void Die() {
         gameObject.SetActive(false);
+        gameOverCanvas.SetActive(true);
     }
 }
