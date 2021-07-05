@@ -5,15 +5,14 @@ using UnityEngine;
 public class LeverArm : MonoBehaviour
 {
     private Finish _finish;
-    private Animator _animator;
+    [SerializeField] private Animator animator;
 
     void Start () {
-        _animator = GetComponent<Animator>();
         _finish = GameObject.FindGameObjectWithTag("Finish").GetComponent<Finish>();
     }
 
    public void ActivateLeverArm() {
-       _animator.SetTrigger("activate");
+       animator.SetTrigger("activate");
        _finish.Activate();
    }
 }

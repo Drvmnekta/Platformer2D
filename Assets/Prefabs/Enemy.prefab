@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2824035061094813223}
   - component: {fileID: 5273057186586117367}
   - component: {fileID: 7367351734781903496}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,7 +152,7 @@ GameObject:
   - component: {fileID: 5424664645434272086}
   - component: {fileID: 5424664645434272084}
   - component: {fileID: 5424664645434272085}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424664645679244089}
   - component: {fileID: 5424664645679244088}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 5424664646383147636}
   - component: {fileID: 5424664646383147637}
   - component: {fileID: 5424664646383147638}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -361,7 +361,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!114 &5424664646383147637
 MonoBehaviour:
@@ -411,7 +411,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5424664646827991017}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -449,7 +449,7 @@ GameObject:
   - component: {fileID: 5424664647555218220}
   - component: {fileID: 5424664647555218218}
   - component: {fileID: 5424664647555218219}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -522,7 +522,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424185222552574325}
   - component: {fileID: 5312857263131936691}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Eyes_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -603,7 +603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429114869285600781}
   - component: {fileID: 5312961923910857941}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tear (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -684,7 +684,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429196594964884329}
   - component: {fileID: 5313345566564784909}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Vibe2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -765,7 +765,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429325061072261095}
   - component: {fileID: 5339765486406990873}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -821,7 +821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429322251266801061}
   - component: {fileID: 5313161426760436437}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Eyes_brow_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429365132141185041}
   - component: {fileID: 5312302792248136891}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: R_Arm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -983,7 +983,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424244775173485811}
   - component: {fileID: 5312693368545313737}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Eyes_brow_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1064,7 +1064,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424538535246427429}
   - component: {fileID: 5312312601099186647}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: L_Arm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1145,7 +1145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429616334164079417}
   - component: {fileID: 5312461893271904995}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Vibe1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1226,7 +1226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424472643920362931}
   - component: {fileID: 5312646351551053851}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1310,7 +1310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429639952490172807}
   - component: {fileID: 5312328932739039431}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Eyes_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1391,7 +1391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429195815804335189}
   - component: {fileID: 5312959744487318381}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Blood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1472,7 +1472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429227682904815119}
   - component: {fileID: 5312855909143108597}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Vibe2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1553,7 +1553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429605265176956197}
   - component: {fileID: 5312815116916701077}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Leg_Guard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1634,7 +1634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429242288783117329}
   - component: {fileID: 5312950953624540007}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1715,7 +1715,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429270589317485723}
   - component: {fileID: 5313148407737166109}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1804,7 +1804,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5424397053674852229}
   - component: {fileID: 5312578812446568243}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Mouth_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1885,7 +1885,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5429464303782338419}
   - component: {fileID: 5312303267847283385}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Leg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1968,7 +1968,7 @@ GameObject:
   - component: {fileID: 5429362650673459015}
   - component: {fileID: 5313225581177772361}
   - component: {fileID: 5339831441427803053}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tear
   m_TagString: Untagged
   m_Icon: {fileID: 0}

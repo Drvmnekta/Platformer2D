@@ -3987,7 +3987,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOverCanvas: {fileID: 0}
   healthSlider: {fileID: 1536106330}
-  totalHealth: 100
+  totalHealth: 1000
   _animator: {fileID: 95941530780404234}
   hitSound: {fileID: 1671353939}
 --- !u!82 &1671353939
@@ -4663,7 +4663,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!114 &4108991312396146555
 MonoBehaviour:
